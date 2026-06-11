@@ -1,0 +1,6 @@
+{
+  "name": "סופר ניווט",
+  "description": "אפליקציה לתכנון מלאי ומסלול קניות אופטימלי בסופרמרקט הממחישה שימוש במערכי אקסל ומפות מעברים (SVG)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
